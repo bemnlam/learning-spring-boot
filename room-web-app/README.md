@@ -1,0 +1,1 @@
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.0.0-SNAPSHOT&packaging=jar&jvmVersion=17&groupId=com.examplehotel&artifactId=room-web&name=room-web&description=Spring%20Boot%202.0%20Essential%20Training%20-%20Web%20application%20with%20Spring%20Boot&packageName=com.examplehotel.room-web&dependencies=thymeleaf,web
