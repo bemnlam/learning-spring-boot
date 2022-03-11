@@ -15,6 +15,12 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class RoomController {
     
     private static final List<Room> rooms = new ArrayList<>();
+    /*
+        Static Blocks
+        Static code blocks are used to initialise static variables. 
+        These blocks are executed immediately after declaration of static variables.
+        https://www.freecodecamp.org/news/java-static-keyword-explained/
+    */
     static {
         for(int i = 0;i < 10; i++) {
             rooms.add(new Room(i, "Room" + i, "R" + i, "Q"));
