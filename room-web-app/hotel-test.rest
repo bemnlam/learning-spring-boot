@@ -1,0 +1,5 @@
+### humao.rest-client
+@API_ROOT=http://localhost:8080
+
+### get all staff
+GET {{API_ROOT}}/api/staffs
